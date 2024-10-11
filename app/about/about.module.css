@@ -1,0 +1,29 @@
+
+.h1{
+    
+    font-size: 70px;
+    color: aqua;
+    background-color: black;
+    text-align: center;
+
+}
+.p1{
+    
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: gray;
+    padding: 2%;
+    margin: 50px;
+    border-radius: 1rem;
+    
+}
+.p2{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+ .body{
+    background-color: #e6f7ff;
+     /* background-color: #fff9e6; */
+     height: 100vh;
+ }

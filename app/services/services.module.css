@@ -1,0 +1,37 @@
+.h3{
+    
+    font-size: 70px;
+    color: rgb(182, 182, 25);
+    background-color: black;
+    text-align: center;
+
+}
+.p1{
+    font-size: 20px;
+    /* color: blue; */
+}
+
+.p2{
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: rgb(193, 194, 121);
+    padding: 2%;
+    margin: 50px;
+    border-radius: 1rem;
+    
+}
+.body{
+    background-color: #fff9e6;
+    height: 100vh;
+}
+
+.lNested{
+    font-size: 25px;
+    /* text-decoration: underline; */
+    color: red;
+}
+.nNested{
+    font-size: 16px;
+    color: blue;
+    text-decoration: underline
+}
